@@ -72,7 +72,6 @@ button:hover{
     display: inline-block;
     line-height: 1;
     outline: none;
-    overflow: hidden;
     padding: 16px 12px;
     text-decoration: none;
     text-overflow: ellipsis;
