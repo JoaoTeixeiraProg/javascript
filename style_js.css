@@ -104,3 +104,20 @@ button:hover{
     justify-content: center;
     padding: 0 112px;
   }
+
+.back a{
+    text-decoration: none;
+    color: black;
+    padding: 1rem 4rem;
+    border: 1px solid black;
+    min-width: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .5s ease-in-out;
+  }
+
+  a:hover{
+    background-color: darkblue;
+    color: white;
+  }
